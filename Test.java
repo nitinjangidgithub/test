@@ -8,5 +8,8 @@ class Test {
 		System.out.println("Hello world -DEV-");
 		System.out.println("DEV");
 
+		System.out.println("Hello world -TEST- ");
+		System.out.println("stage"):
+
 	}
 }
